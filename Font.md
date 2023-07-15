@@ -1,4 +1,4 @@
-Slavianogretto.tff, Taporovegro.ttf
+Taporovegro.ttf
 
 U+0412 + 0300, 0301, 0302, 0304, 0306, 0307, 0308, 030A, 030B, 030C
 u+0432 + 0300, 0301, 0302, 0304, 0306, 0307, 0308, 030A, 030B, 030C
